@@ -14,7 +14,6 @@ import threading
 import traceback
 import webbrowser
 from datetime import date, datetime
-from pathlib import Path
 from typing import Any
 
 import tkinter as tk
